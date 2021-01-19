@@ -16,3 +16,9 @@ https://vuepress.vuejs.org/guide/deploy.html
 ```
 $ vuepress build
 ```
+
+-----
+
+# Koa-static 사용
+Koa 정적파일 생성  
+https://github.com/koajs/static  
